@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector
 
 #Added HTML CSS and Javascript files with the Jquery CDN
 #Created the HTML with ID's and Classes
