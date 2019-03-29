@@ -2,7 +2,7 @@
 
 #### A little game I created to play with images and test out randomizing data values in javascript. 
 
-##How to Start
+## How to Start
 
 In this game you will be given a score.
 Clicking the different crystals will give you different amounts of points. 
